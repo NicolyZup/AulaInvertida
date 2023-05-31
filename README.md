@@ -7,6 +7,6 @@ Repositório criado para resolução dos exercícios sobre Arrays/Listas da Aula
 
 ## Integrantes
 - João Vitor Cruz
-- Ricardo da Sila
+- Ricardo dos Santos
 - Nicoly Barros
 - Yasmin dos Santos Balbino
